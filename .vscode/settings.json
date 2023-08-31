@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/jeff/.pyenv/versions/python-tdd-book/lib/python3.9/site-packages",
+        "/Users/jeff/devl/local/python",
+    ],
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "/Users/jeff/.pyenv/versions/python-tdd-book/bin/python",
+}
