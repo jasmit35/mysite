@@ -12,6 +12,9 @@
 **/*.pdf
 **/*.xlsx
 
+**/db.sqlite3
+**/__pycache__
+
 .secrets-db-password
 .vscode/
 
